@@ -1,0 +1,10 @@
+#make a repositry in github
+#create a folder
+#add files
+#open git bash
+#type
+#git init
+#git remote add origin + add link of repositry
+#git add .
+#git commit -m "MESSAGE WANT TO SHOW"
+#git push origin master
